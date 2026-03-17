@@ -1,6 +1,6 @@
 # 🏠 AI House Price Predictor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://house-pp.streamlit.app/)
 
 An intelligent deep learning application that predicts house prices in the Greater Seattle area. Built with PyTorch and Streamlit, this system provides accurate market value estimates based on property features.
 
@@ -41,4 +41,4 @@ The system uses a deep neural network with:
 - (Optional) NVIDIA GPU with CUDA support
 
 ## Author
-Dr. Mahroona Laraib
+## Dr. Mahroona Laraib
